@@ -15,9 +15,9 @@ Simulates European call & put option prices using Monte Carlo methods (Geometric
 Black-Scholes gives an exact price for vanilla European options, but most real-world derivatives (exotic options, path-dependent payoffs, American options) don't have closed-form solutions. Monte Carlo simulation is the general-purpose tool used when no analytical formula exists — this project validates the simulation approach against the known closed-form answer as a sanity check.
 
 ## Sample output
-========================================================
+
    MONTE CARLO OPTIONS PRICER
-========================================================
+
 
 Done in 1.20s — 100,000 paths
 
